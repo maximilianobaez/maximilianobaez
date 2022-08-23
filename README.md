@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [@peperinasoftware](https://github.com/PeperinaSoftware)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximilianobaez" alt="peperinasoftware" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peperinasoftware" alt="peperinasoftware" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
